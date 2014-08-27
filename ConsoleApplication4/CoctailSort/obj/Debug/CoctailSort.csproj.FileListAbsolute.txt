@@ -1,0 +1,6 @@
+c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\bin\Debug\CoctailSort.dll.config
+c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\bin\Debug\CoctailSort.dll
+c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\bin\Debug\CoctailSort.pdb
+c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.csprojResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.dll
+c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.pdb
