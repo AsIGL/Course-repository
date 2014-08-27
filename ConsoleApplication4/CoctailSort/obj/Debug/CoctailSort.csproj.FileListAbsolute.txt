@@ -4,3 +4,9 @@ c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4
 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.csprojResolveAssemblyReference.cache
 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.dll
 c:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\CoctailSort\bin\Debug\CoctailSort.dll.config
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\CoctailSort\bin\Debug\CoctailSort.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\CoctailSort\bin\Debug\CoctailSort.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.csprojResolveAssemblyReference.cache
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\CoctailSort\obj\Debug\CoctailSort.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\MergeSort\obj\Debug\MergeSort.pdb

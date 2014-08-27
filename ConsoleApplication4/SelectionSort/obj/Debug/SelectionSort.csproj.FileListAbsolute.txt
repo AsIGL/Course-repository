@@ -1,0 +1,8 @@
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\bin\Debug\SelectionSort.dll.config
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\bin\Debug\SelectionSort.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\bin\Debug\AdditionalFunctions.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\bin\Debug\AdditionalFunctions.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\obj\Debug\SelectionSort.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache

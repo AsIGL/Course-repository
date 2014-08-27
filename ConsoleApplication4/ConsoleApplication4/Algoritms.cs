@@ -8,35 +8,36 @@ namespace Algoritms
 {
     class AlgorithmsTest
     {
-        static int[] TestArray = {68,10,50,17 };
+        static int[] TestArray = {68,10,50,17,12 };
+        static int[] TestArray1 = { 68, 10, 50, 17, 12 };
         static int[] RandomNumberArray = new int[100] ;
 
         static void Main(string[] args)
         {
-           
 
-            //BubbleSort.BubbleSort.PrintArray.Printing(TestArray);
-            //BubbleSort.BubbleSort.BubbleSortAlgo(TestArray);
+            AdditionalFunctions.PrintArray.Printing(TestArray);         
+            BubbleSort.BubbleSort.BubbleSortAlgo(TestArray);
 
-            RandomNumberGenerator.RandomArraygenerator(ref RandomNumberArray);
+            AdditionalFunctions.PrintArray.Printing(TestArray1);   
+            SelectionSort.SelectionSort.SelectionSortAlgo(TestArray1);
+            AdditionalFunctions.PrintArray.Printing(TestArray1);   
 
-            BubbleSort.BubbleSort.BubbleSortAlgo(RandomNumberArray);
-            BubbleSort.BubbleSort.PrintArray.Printing(RandomNumberArray);                        
+            AdditionalFunctions.RandomNumberGenerator.RandomArraygenerator(ref RandomNumberArray);
+
+            AdditionalFunctions.PrintArray.Printing(RandomNumberArray);
+            SelectionSort.SelectionSort.SelectionSortAlgo(RandomNumberArray);
+            AdditionalFunctions.PrintArray.Printing(RandomNumberArray);
+
+            //BubbleSort.BubbleSort.BubbleSortAlgo(RandomNumberArray);
+            //AdditionalFunctions.PrintArray.Printing(RandomNumberArray);
+
+
+
             Console.WriteLine(" Algo done ");
         }
     }
     
     
 
-    public static class RandomNumberGenerator
-    {  
-        public static void RandomArraygenerator(ref int[] RandomArray)
-        {
-            Random rnd = new Random();           
-            for (int i = 0; i < RandomArray.Length; i++)
-            {
-                RandomArray[i] = rnd.Next(1, 101);               
-            }
-        }
-    }
+    
 }

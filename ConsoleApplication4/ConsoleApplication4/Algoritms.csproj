@@ -51,9 +51,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AdditionalFunctions\AdditionalFunctions.csproj">
+      <Project>{de47b02b-e092-400d-8266-40fdbc11545f}</Project>
+      <Name>AdditionalFunctions</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ConsoleApplication1\BubbleSort.csproj">
       <Project>{deb61703-f6e2-4f49-89ad-597629e370b7}</Project>
       <Name>BubbleSort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelectionSort\SelectionSort.csproj">
+      <Project>{493a64b2-3e2f-4d8a-8094-0b2d78db929c}</Project>
+      <Name>SelectionSort</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

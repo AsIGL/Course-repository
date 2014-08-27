@@ -1,0 +1,5 @@
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\AdditionalFunctions\bin\Debug\AdditionalFunctions.dll.config
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\AdditionalFunctions\bin\Debug\AdditionalFunctions.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\AdditionalFunctions\bin\Debug\AdditionalFunctions.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\AdditionalFunctions\obj\Debug\AdditionalFunctions.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\AdditionalFunctions\obj\Debug\AdditionalFunctions.pdb

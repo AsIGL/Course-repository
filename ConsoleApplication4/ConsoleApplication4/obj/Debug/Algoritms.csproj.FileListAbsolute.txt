@@ -6,3 +6,15 @@ c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication4
 c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
 c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
 c:\users\administrator\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication1.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication1.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\obj\Debug\Algoritms.csprojResolveAssemblyReference.cache
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\AdditionalFunctions.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\SelectionSort.dll
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\AdditionalFunctions.pdb
+C:\Users\Ignas\Documents\GitHub\Course-repository\ConsoleApplication4\ConsoleApplication4\bin\Debug\SelectionSort.pdb

@@ -14,34 +14,26 @@ namespace BubbleSort
                 Console.WriteLine("New ");
                 for (int i = 1; i < (ListOfNumbers.Length); i++)
                 {
-                    if (ListOfNumbers[i - 1] > ListOfNumbers[i])
-                    {
-                        int temp = ListOfNumbers[i];
-                        ListOfNumbers[i] = ListOfNumbers[i - 1];
-                        ListOfNumbers[i - 1] = temp;
-                    }
-                    PrintArray.Printing(ListOfNumbers);
+                    CompareValues.CompareTwoValues(ref ListOfNumbers[i - 1], ref ListOfNumbers[i]);
+
+                    AdditionalFunctions.PrintArray.Printing(ListOfNumbers);
+                    
                 }
             }
 
         }
 
-
-
-        public class PrintArray
+        public class CompareValues
         {
-            public static void Printing(int[] printArrayIs)
+            public static void CompareTwoValues(ref int firstValue, ref int secondValue)
             {
-
-                Console.Write(" Array is: ");
-
-                foreach (var item in printArrayIs)
+                if (firstValue > secondValue)
                 {
-                    Console.Write(" " + item);
-                }
-                Console.WriteLine(" ");
+                    AdditionalFunctions.SwapValues.SwapFunction(ref firstValue, ref secondValue);                    
+                }      
             }
-        }
+        }      
+
     }
 
 
