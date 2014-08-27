@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace MergeSort
 {
-    class MergeSort
+    public static class MergeSort
     {
-        static void Main(string[] args)
+        public static void MergeSortAlgo(int[] SortAlgo)
         {
+            int algoLength = SortAlgo.Length;
+
         }
     }
 }
